@@ -1,0 +1,1 @@
+add_library(uuid uuid.cpp uuid.h)

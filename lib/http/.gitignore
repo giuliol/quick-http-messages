@@ -1,0 +1,22 @@
+# Compiled Object files
+.gitattributes
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+*.dblite
+*.idb
+*.pdb
+*.pyc
+bin
+build
+lib
